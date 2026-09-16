@@ -1,0 +1,5 @@
+﻿variable,assumption,n,observations,statistic,df,p_value,alpha,assumption_met,decision
+SEQ,normalidad_residuos_Shapiro_Wilk,42,126,0.9354773457232636,,1.367974977096765e-05,0.05,False,seleccionar_Friedman
+SEQ,esfericidad_Mauchly,42,3,0.9592683604169707,2.0,0.435313771984312,0.05,True,ANOVA_admisible_en_esfericidad
+Raw_NASA_TLX_compuesto,normalidad_residuos_Shapiro_Wilk,42,126,0.9536648985598623,,0.0002796461120107987,0.05,False,seleccionar_Friedman
+Raw_NASA_TLX_compuesto,esfericidad_Mauchly,42,3,0.8659617547385156,2.0,0.056230796581733064,0.05,True,ANOVA_admisible_en_esfericidad

@@ -1,0 +1,5 @@
+﻿stored_code,modality,local_label,frequency,percentage,denominator
+1,manual,"Realizar la tarea manualmente, sin intervención del robot",9,21.428571428571427,42
+2,robot sin voz,"Realizar la tarea con el robot autónomo, sin órdenes de voz",15,35.714285714285715,42
+3,robot con voz,Realizar la tarea con el robot autónomo y con posibilidad de darle órdenes de voz,18,42.857142857142854,42
+4,sin preferencia,No tengo una preferencia clara,0,0.0,42

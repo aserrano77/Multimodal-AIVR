@@ -1,0 +1,3 @@
+﻿variable,variable_label,n,status,reason,test,statistic_name,statistic,df1,df2,p_value,alpha,significant,effect_name,effect_value
+SEQ,SEQ,42,executed,al_menos_un_supuesto_ANOVA_no_cumple,Friedman,chi_squared,1.572815533980503,2.0,,0.4554780432846607,0.05,False,Kendall_W,0.018723994452148847
+Raw_NASA_TLX_compuesto,Raw NASA-TLX compuesto,42,executed,al_menos_un_supuesto_ANOVA_no_cumple,Friedman,chi_squared,12.158536585365827,2.0,,0.00228985154121118,0.05,True,Kendall_W,0.14474448315911698

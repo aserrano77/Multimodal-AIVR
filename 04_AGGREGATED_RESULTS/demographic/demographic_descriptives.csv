@@ -1,0 +1,28 @@
+﻿block,row_type,field,field_label,n,mean,median,sd,q1,q3,iqr,min,max,missing,statistic_set,category_code,category_label,frequency,percentage,denominator
+numeric,numeric,D1_age,Edad (años),42.0,38.07142857142857,36.0,11.576664621689021,,,,20.0,59.0,0,N;mean;median;sample_SD;min;max,,,,,
+numeric,numeric,D5_vr_sessions_12m,Sesiones de RV en 12 meses,42.0,9.571428571428571,0.0,56.22044713410049,0.0,1.0,1.0,0.0,365.0,0,N;mean;median;Q1;Q3;IQR;min;max,,,,,
+numeric,numeric,D6_robot_interactions_12m,Interacciones con robots en 12 meses,42.0,27.214285714285715,0.0,154.2202314579406,0.0,0.0,0.0,0.0,999.0,0,N;mean;median;Q1;Q3;IQR;min;max,,,,,
+numeric,numeric,D7_voice_days_30d,Días de uso de voz en 30 días,42.0,5.119047619047619,0.0,8.326280406778963,0.0,5.0,5.0,0.0,30.0,0,N;mean;median;Q1;Q3;IQR;min;max,,,,,
+categorical,categorical,D2_gender,Género,,,,,,,,,,0,frequency;percentage,1,Mujer,12.0,28.571428571428573,42.0
+categorical,categorical,D2_gender,Género,,,,,,,,,,0,frequency;percentage,2,Hombre,30.0,71.42857142857143,42.0
+categorical,categorical,D2_gender,Género,,,,,,,,,,0,frequency;percentage,3,No binario/a u otra identidad de género,0.0,0.0,42.0
+categorical,categorical,D2_gender,Género,,,,,,,,,,0,frequency;percentage,99,Prefiero no responder,0.0,0.0,42.0
+categorical,categorical,D3_education,Nivel de estudios,,,,,,,,,,0,frequency;percentage,1,Educación primaria o inferior,0.0,0.0,42.0
+categorical,categorical,D3_education,Nivel de estudios,,,,,,,,,,0,frequency;percentage,2,Educación Secundaria Obligatoria o equivalente,1.0,2.380952380952381,42.0
+categorical,categorical,D3_education,Nivel de estudios,,,,,,,,,,0,frequency;percentage,3,Bachillerato,3.0,7.142857142857143,42.0
+categorical,categorical,D3_education,Nivel de estudios,,,,,,,,,,0,frequency;percentage,4,Formación Profesional de grado medio,0.0,0.0,42.0
+categorical,categorical,D3_education,Nivel de estudios,,,,,,,,,,0,frequency;percentage,5,Formación Profesional de grado superior,3.0,7.142857142857143,42.0
+categorical,categorical,D3_education,Nivel de estudios,,,,,,,,,,0,frequency;percentage,6,"Grado universitario, diplomatura o licenciatura",4.0,9.523809523809524,42.0
+categorical,categorical,D3_education,Nivel de estudios,,,,,,,,,,0,frequency;percentage,7,"Máster, posgrado o equivalente",9.0,21.428571428571427,42.0
+categorical,categorical,D3_education,Nivel de estudios,,,,,,,,,,0,frequency;percentage,8,Doctorado,22.0,52.38095238095238,42.0
+categorical,categorical,D3_education,Nivel de estudios,,,,,,,,,,0,frequency;percentage,97,Otro nivel,0.0,0.0,42.0
+categorical,categorical,D3_education,Nivel de estudios,,,,,,,,,,0,frequency;percentage,99,Prefiero no responder,0.0,0.0,42.0
+categorical,categorical,D4_area,Área de formación o actividad,,,,,,,,,,0,frequency;percentage,1,"Informática, telecomunicaciones, arquitectura o ingeniería",21.0,50.0,42.0
+categorical,categorical,D4_area,Área de formación o actividad,,,,,,,,,,0,frequency;percentage,2,"Ciencias naturales, matemáticas o ciencias de la salud",11.0,26.19047619047619,42.0
+categorical,categorical,D4_area,Área de formación o actividad,,,,,,,,,,0,frequency;percentage,3,"Ciencias sociales, jurídicas, económicas, educación o humanidades",8.0,19.047619047619047,42.0
+categorical,categorical,D4_area,Área de formación o actividad,,,,,,,,,,0,frequency;percentage,4,"Artes, diseño o comunicación",1.0,2.380952380952381,42.0
+categorical,categorical,D4_area,Área de formación o actividad,,,,,,,,,,0,frequency;percentage,5,"Industria, oficios técnicos, construcción, transporte o logística",1.0,2.380952380952381,42.0
+categorical,categorical,D4_area,Área de formación o actividad,,,,,,,,,,0,frequency;percentage,6,"Administración, comercio, hostelería u otros servicios",0.0,0.0,42.0
+categorical,categorical,D4_area,Área de formación o actividad,,,,,,,,,,0,frequency;percentage,7,Actualmente no estudio ni trabajo en un área definida,0.0,0.0,42.0
+categorical,categorical,D4_area,Área de formación o actividad,,,,,,,,,,0,frequency;percentage,97,Otra área,0.0,0.0,42.0
+categorical,categorical,D4_area,Área de formación o actividad,,,,,,,,,,0,frequency;percentage,99,Prefiero no responder,0.0,0.0,42.0

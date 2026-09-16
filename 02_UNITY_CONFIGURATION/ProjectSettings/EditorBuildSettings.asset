@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/experiment_start_scene.unity
+    guid: 8e3058894e68a69498bd50222261e288
+  - enabled: 1
+    path: Assets/Scenes/final_scene.unity
+    guid: f68457bcff18e934fb1c086b3fda5c78
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: Assets/Scenes/autonomous_demo_step22_multimodal_bridge.unity
+    guid: 40a829ea2a848f34883bda77de32b477
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 39bd2fd724abb9d4789ca360b3345a19, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 67a1782ffc20e2e44b4f510e4a85bac4, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 2f90a95fd1abad14886f7d29b661ac0b, type: 2}
+  m_UseUCBPForAssetBundles: 0

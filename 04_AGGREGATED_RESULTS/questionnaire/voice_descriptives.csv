@@ -1,0 +1,4 @@
+﻿variable,variable_label,condition,unit,n,mean,sd,median,q1,q3,iqr,min,max,mean_ci95_low,mean_ci95_high,not_applicable_98,available_authoritative_submissions
+voice_comprehension,Comprensión de órdenes,C11,0–10,42,7.214285714285714,2.858753901194683,8.0,5.25,9.75,4.5,1.0,10.0,6.323435285832353,8.105136142739076,0,42
+voice_correspondence,Correspondencia orden-respuesta,C11,0–10,37,6.0,3.2914029430219167,7.0,3.0,9.0,6.0,0.0,10.0,4.902591621766816,7.097408378233184,5,42
+voice_control,Control percibido,C11,0–10,42,5.738095238095238,3.0126523749300866,5.5,4.0,8.0,4.0,0.0,10.0,4.7992866691359,6.676903807054576,0,42

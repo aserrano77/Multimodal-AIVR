@@ -1,0 +1,5 @@
+﻿variable,assumption,n,observations,statistic,df,p_value,alpha,assumption_met,decision
+trial_duration_s,normalidad_residuos_Shapiro_Wilk,36,108,0.8834218285054937,,1.063681967249462e-07,0.05,False,seleccionar_Friedman
+trial_duration_s,esfericidad_Mauchly,36,3,0.42663681121827135,2.0,5.140336137829667e-07,0.05,False,seleccionar_Friedman
+error_count,normalidad_residuos_Shapiro_Wilk,36,108,0.9882674280502087,,0.47105648548680973,0.05,True,ANOVA_admisible_en_normalidad
+error_count,esfericidad_Mauchly,36,3,0.8745629452097331,2.0,0.10243496739386368,0.05,True,ANOVA_admisible_en_esfericidad

@@ -1,0 +1,17 @@
+{
+    "name": "Autonomy",
+    "rootNamespace": "",
+    "references": [
+        "Unity.InputSystem",
+        "Unity.XR.CoreUtils"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
