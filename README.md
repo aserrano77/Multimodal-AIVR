@@ -1,6 +1,6 @@
 # Multimodal AI-VR: paquete privado de inspección
 
-Este paquete permite al tutor consultar el código propio, la configuración esencial, el pipeline offline, resultados agregados y documentación técnica seleccionada.
+Este paquete permite consultar el código propio, la configuración esencial, el pipeline offline, resultados agregados y documentación técnica seleccionada.
 
 Unity: 6000.0.68f1, revisión e1e9baaf294b.
 
